@@ -1,0 +1,15 @@
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/bin/Debug/net7.0/WagesApp
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/bin/Debug/net7.0/WagesApp.deps.json
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/bin/Debug/net7.0/WagesApp.runtimeconfig.json
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/bin/Debug/net7.0/WagesApp.dll
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/bin/Debug/net7.0/WagesApp.pdb
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/obj/Debug/net7.0/WagesApp.csproj.AssemblyReference.cache
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/obj/Debug/net7.0/WagesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/obj/Debug/net7.0/WagesApp.AssemblyInfoInputs.cache
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/obj/Debug/net7.0/WagesApp.AssemblyInfo.cs
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/obj/Debug/net7.0/WagesApp.csproj.CoreCompileInputs.cache
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/obj/Debug/net7.0/WagesApp.dll
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/obj/Debug/net7.0/refint/WagesApp.dll
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/obj/Debug/net7.0/WagesApp.pdb
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/obj/Debug/net7.0/WagesApp.genruntimeconfig.cache
+/Users/jaydenjoseph-nellaryil/Documents/Projects/WagesApp/WagesApp/WagesApp/obj/Debug/net7.0/ref/WagesApp.dll
